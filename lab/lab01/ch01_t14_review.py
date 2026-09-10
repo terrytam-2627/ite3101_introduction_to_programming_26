@@ -1,1 +1,1 @@
-skill_c0mpleted =
+skill_c0pleted =
