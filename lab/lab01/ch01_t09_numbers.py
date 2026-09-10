@@ -1,2 +1,3 @@
 cucumbers = 1
 price_per_cucmber =3.25
+total
