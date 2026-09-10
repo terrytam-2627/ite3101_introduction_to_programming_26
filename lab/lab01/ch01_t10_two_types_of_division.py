@@ -8,3 +8,5 @@ float_cucumber_per_person = cucumber / num_people
 print(float_cucumber_per_person)
 
 
+
+
