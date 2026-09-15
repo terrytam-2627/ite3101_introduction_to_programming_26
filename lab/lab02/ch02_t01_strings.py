@@ -1,1 +1,1 @@
-brina = ("Hello, life!")
+brina = ("Hello life!")
