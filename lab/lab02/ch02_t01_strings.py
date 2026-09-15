@@ -1,1 +1,1 @@
-brian("Hello life!") 
+print
