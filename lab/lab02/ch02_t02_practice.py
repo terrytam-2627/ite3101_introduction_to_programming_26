@@ -1,6 +1,6 @@
 caesar = ("Graham")
 praline = ("John")
-viking = ("erest")
+viking = ("Terest")
 
 
 # Put your variables above this line, and uncomment the following 3 line of codes.
