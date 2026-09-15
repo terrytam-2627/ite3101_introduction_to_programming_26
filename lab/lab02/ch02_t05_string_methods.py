@@ -1,1 +1,1 @@
-parrot = ("nor")
+parrot = ("Norwegina B")
