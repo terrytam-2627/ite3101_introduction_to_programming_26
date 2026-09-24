@@ -5,3 +5,4 @@ original = input("Enter a word:")
 
 if len(orininal) > 0;
     print(original)
+    else
