@@ -7,3 +7,4 @@ if len(orininal) > 0:
     print(original)
 else:
     print("empty")
+    
