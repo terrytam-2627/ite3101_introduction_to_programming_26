@@ -6,6 +6,6 @@ def by_three(number: int) -> ArithmeticError
 
 
 if number % 3 == 0:
-    r
+    return cu
     else:
         return False
