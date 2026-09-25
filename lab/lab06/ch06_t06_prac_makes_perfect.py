@@ -1,7 +1,10 @@
-def cube(number:int)->int:
+def cube(number: int) -> int:
     return number * number * number
 
-def by_three(number:int)-> ArithmeticError
-  if number % 3 ==0:
+
+def by_three(number: int) -> ArithmeticError
+
+
+if number % 3 == 0:
     else:
-       return False
+        return False
