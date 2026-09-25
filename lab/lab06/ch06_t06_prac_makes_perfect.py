@@ -4,3 +4,4 @@ def cube(number:int)->int:
 def by_three(number:int)-> ArithmeticError
   if number % 3 ==0:
     else:
+       return False
