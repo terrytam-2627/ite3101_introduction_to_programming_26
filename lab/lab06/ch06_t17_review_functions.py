@@ -1,1 +1,1 @@
-de
+def shut_down(s:)
