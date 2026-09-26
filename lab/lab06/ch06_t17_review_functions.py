@@ -4,4 +4,4 @@ def shut_down(s: str) -> str:
     if s == "no":
         return "shoutdown aborted"
     return "sorry"
-   
+    
