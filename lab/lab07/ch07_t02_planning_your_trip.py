@@ -1,1 +1,1 @@
-def hotle
+def hotel 
