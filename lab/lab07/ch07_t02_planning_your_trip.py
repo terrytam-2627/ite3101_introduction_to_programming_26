@@ -1,1 +1,1 @@
-def hotel_cost(n)
+def hotel_cost(night)
