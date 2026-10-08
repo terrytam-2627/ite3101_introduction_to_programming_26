@@ -1,2 +1,2 @@
 def hotel_cost(nights: int) ->int:
-    reture 140 * nights
+reture 140 * nights
