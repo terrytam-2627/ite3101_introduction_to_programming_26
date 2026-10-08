@@ -5,3 +5,4 @@ def distance_from_zero(d: Any)-> Any:
         return abs(d)
     else:
         return "Nope"
+ 
