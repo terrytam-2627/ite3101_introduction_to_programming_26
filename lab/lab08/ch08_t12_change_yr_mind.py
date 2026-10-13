@@ -14,7 +14,7 @@ del zoo_animals['Bengal Tiger']
 
 
 del zoo_animals['Unicorn']
-zoo_animals['Atlantic Puffin'] ="Unkno"
+zoo_animals['Atlantic Puffin'] ="Unknown "
 
 
 print(zoo_animals)
