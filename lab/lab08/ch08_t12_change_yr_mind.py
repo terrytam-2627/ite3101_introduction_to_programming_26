@@ -14,7 +14,7 @@ del zoo_animals['Sloth']
 del zoo_animals['Bengal Tiger']
 
 
-zoo_animals['Atlantic Puffin'] = "Unknown Place"
+zoo_animals[' Puffin'] = "Unknown Place"
 
 
 print(zoo_animals)
