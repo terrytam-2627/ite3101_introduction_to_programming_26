@@ -3,7 +3,7 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
                'Sloth': 'Rainforest Exhibit',
                'Bengal Tiger': 'Jungle House',
                'Atlantic Puffin': 'Arctic Exhibit',
-               '': 'Arctic Exhibit'}
+               'Ro': 'Arctic Exhibit'}
 # A dictionary (or list) declaration may break across multiple lines
 
 # Removing the 'Unicorn' entry. (Unicorns are incredibly expensive.)
