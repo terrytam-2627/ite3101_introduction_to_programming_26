@@ -15,7 +15,6 @@ prices = {
     "pear": 3
 }
 
-from typing import List
 # Write your code below!
 
 
