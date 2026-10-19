@@ -21,4 +21,5 @@ def compute_bill(food: Lise[str]) -> float:
     total = 0.0
     for item in food:
         total += prices[item]
-        reture total
+        return total
+
