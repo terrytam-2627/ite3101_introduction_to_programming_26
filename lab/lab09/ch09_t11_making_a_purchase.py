@@ -16,7 +16,7 @@ prices = {
 
 # Write your code below!
 
-f
+form typing 
 def compute_bill(food: List[str]) -> float:vb
     total = 0.0
     for item in food:
