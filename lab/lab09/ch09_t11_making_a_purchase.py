@@ -17,7 +17,7 @@ prices = {
 # Write your code below!
 
 form typing import List
-def compute_bill(food: List[str]) -> float:vb
+def compute_bill(food: List[str]) -> float:
     total = 0.0
     for item in food:
         total += prices[item]
