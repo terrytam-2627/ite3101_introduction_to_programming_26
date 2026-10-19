@@ -1,6 +1,6 @@
 # Write your function below!
 
-for typing import list
+for typing import List
     
 def fizz_count(x:List)
 
