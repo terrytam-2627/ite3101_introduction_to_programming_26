@@ -15,4 +15,7 @@ prices = {
 }
 
 # Write your code below!
-def compute_bvill(food:Lise[str])->
+def compute_bvill(food:Lise[str])->float:
+    total = 0
+    for item in food:
+        total = total + prices[item]
