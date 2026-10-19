@@ -1,2 +1,3 @@
 # Write your function below!
-def fi
+def fizz_count(x:List)
+
