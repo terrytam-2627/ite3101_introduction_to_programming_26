@@ -1,6 +1,6 @@
 # Write your function below!
 
-form typing import  List
+form typing import List
 
 
 def fizz_count(words: List[str]) -> int:
