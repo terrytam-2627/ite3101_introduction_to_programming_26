@@ -15,7 +15,7 @@ prices = {
     "pear": 3
 }
 
-rom typing import List
+from typing import List
 # Write your code below!
 
 
