@@ -16,6 +16,6 @@ tyler ={
     "name": "Tyler"
     "homework": [],
     "quizzes": [],
-    "tests"
+    "tests": []
 
 }
