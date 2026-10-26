@@ -4,7 +4,6 @@ lloyd = {
     "quizzes": [],
     "test": [],
 }
-
 alice = {
     "name": "Alice"
     "homework": [],
