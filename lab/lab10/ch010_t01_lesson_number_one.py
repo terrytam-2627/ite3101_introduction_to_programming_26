@@ -2,6 +2,5 @@ lloyd ={
     "name":"Lloyd"
     "homework"
     "quizzes"
-    "test"
-    
+    "test":
 }
