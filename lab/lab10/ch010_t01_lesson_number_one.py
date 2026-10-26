@@ -1,11 +1,11 @@
 lloyd ={
     "name":"Lloyd"
     "homework": [],
-    "quizzes": []
-    "test": []
+    "quizzes": [],
+    "test": [],
 }
 
 alice = {
     "name": "Alice"
-    "homework": []
+    "homework": [],
 }
