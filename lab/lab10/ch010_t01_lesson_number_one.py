@@ -1,3 +1,3 @@
 lloyd =(
-    "name":llod
+    "name":lloyd
 )
