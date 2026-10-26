@@ -5,7 +5,7 @@ lloyd = {
     "test": [],
 }
 alice = {
-    "name": "Alice"
+    "name": "Alice",
     "homework": [],
     "quizzes": [],
     "tests": [],
