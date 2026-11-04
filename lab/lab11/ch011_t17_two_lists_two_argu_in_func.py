@@ -1,4 +1,4 @@
-form typing import List
+from typing import List
 
 m = [1, 2, 3]
 n = [4, 5, 6]
