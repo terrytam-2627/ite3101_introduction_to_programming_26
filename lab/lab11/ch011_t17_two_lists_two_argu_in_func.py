@@ -3,7 +3,7 @@ n = [4, 5, 6]
 
 # Add your code here!
 
-def join_lists(x: List[int], y: List[int]) -> List[ing]
+def join_lists(x: List[int], y: List[int]) -> List[int]
  return x + y
 
 
