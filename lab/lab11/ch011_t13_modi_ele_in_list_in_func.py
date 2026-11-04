@@ -11,4 +11,4 @@ def doble_list(x:List[int]) -> List[int]:
     x[i] = x[i] * 2
  return x
 
-# print(double_list(n))
+print(double_list(n))
