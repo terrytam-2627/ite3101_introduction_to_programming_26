@@ -6,7 +6,7 @@ n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
 
 def flatten(list: List[List[int]]) -> List[int]:
     result = []
-    for level1 in :
+    for level1 in lists :
         for level2 in level1:
             result.append(level2)
     return result
