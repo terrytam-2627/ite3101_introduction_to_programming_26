@@ -3,4 +3,4 @@ def total(numbers: List[int])-> int:
     result = 0
     for number in number:
         resurt += number
-    r
+    return result
