@@ -1,4 +1,4 @@
-from typiong import List
+from typing import List
 n = [3, 5, 7]
 
 def print_list(x:List[int])->
