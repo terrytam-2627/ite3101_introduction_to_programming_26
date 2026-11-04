@@ -4,6 +4,6 @@ def join_strings(words: List[str])-> str:
     result = "" 
     for word in words:
         result += word
-        re
+        return result
 
 # print(join_strings(n))
