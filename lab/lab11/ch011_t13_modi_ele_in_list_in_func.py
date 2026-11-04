@@ -8,6 +8,6 @@ for i in range(0, len(n)):
 
 def doble_list(x:List[int]) -> List[int]
 for i in range(0, len(x)):
-    x[i] = x[i]
+    x[i] = x[i] * 2
 
 # print(double_list(n))
