@@ -31,5 +31,5 @@ guess_col = int(input("Guess Col: "))
 
 # Write your code below!
 if guess_row == ship_row and guess_col == ship_col:
-    prnt("Congeatulations! You sank my battleship!")
-    
+    print("Congeatulations! You sank my battleship!")
+
