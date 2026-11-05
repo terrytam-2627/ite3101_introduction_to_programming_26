@@ -1,4 +1,4 @@
-from typing import Liist
+from typing import List
 
 
 board = []
