@@ -37,6 +37,6 @@ else:
         print("Oops, that's not even in the ocean.")
     elese:
             print("You missed my battleship!")
-           board[guess_row][guess_col] = "X"
+           board[guess_row][guess_col] = "x"
             print_board(board)
 
