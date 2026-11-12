@@ -12,4 +12,4 @@ while guesses_left > 0:
         break
     guesses_left -= 1
 else:
-     print("you lose. The number was", random_number)
+     print("you lose. The number was", random_number""
