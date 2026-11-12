@@ -1,6 +1,6 @@
 num = 1
 
-while False:  # Fill in the condition
+while :  # Fill in the condition
     pass
 n
 # Print num squared
