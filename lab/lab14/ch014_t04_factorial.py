@@ -1,1 +1,3 @@
-def factorial(x:int)-> iint:
+def factorial(x:int)-> int:
+    value = 0
+    for i in range
