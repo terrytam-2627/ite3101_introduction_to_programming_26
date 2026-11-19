@@ -1,6 +1,8 @@
+from typing import List
+
 def count(sequece: List[int], item:int)->int:
     result = 0
-    for i in sequence:
+    for i in seq:
         if i == item:
             result += 1
     return result
