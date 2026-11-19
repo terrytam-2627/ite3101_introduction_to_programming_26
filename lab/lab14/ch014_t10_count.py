@@ -1,1 +1,1 @@
-def count(sequece)
+def count(sequece: List[int], item:int)->
