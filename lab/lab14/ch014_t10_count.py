@@ -1,1 +1,1 @@
-def count(seque)
+def count(sequece)
