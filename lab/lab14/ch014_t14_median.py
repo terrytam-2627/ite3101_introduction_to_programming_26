@@ -1,2 +1,3 @@
 from typing import List
-def 
+def median(lst:List[int])-> float:
+    sorted
