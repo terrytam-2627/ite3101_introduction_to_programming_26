@@ -1,2 +1,4 @@
 def count(sequece: List[int], item:int)->int:
-    resul
+    result = 0
+    for i in sequence:
+        if i == item
