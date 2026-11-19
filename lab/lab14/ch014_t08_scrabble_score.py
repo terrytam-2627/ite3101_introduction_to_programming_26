@@ -7,4 +7,4 @@ def scrabble_score(word: str) -> int:
     mark = 0
     for char in word.lower():
         mark += score[char]
-     return mark
+    return mark
