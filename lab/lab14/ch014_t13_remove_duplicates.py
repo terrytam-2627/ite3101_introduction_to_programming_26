@@ -1,2 +1,2 @@
 from typing import List
-def remove_duplicates(seq)
+def remove_duplicates(seq: List[int])
