@@ -1,3 +1,5 @@
 def reverse(text:str)->str:
-    word = "" \
+    word = "" 
+    length = len(text) - 1
+    while length >
    
