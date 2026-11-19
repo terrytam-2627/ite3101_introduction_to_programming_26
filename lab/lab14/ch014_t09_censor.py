@@ -3,4 +3,5 @@ def censor(text:str,word:str)->str:
     for s in text>splist():
         if s == word:
             result.append()
-            else
+        else:
+            return
