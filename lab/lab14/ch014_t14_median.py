@@ -1,4 +1,4 @@
 from typing import List
 def median(lst:List[int])-> float:
     sorted_lst = sorted(lst)
-    if len(so)
+    if len(sorted_l)
