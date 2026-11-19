@@ -1,3 +1,3 @@
 from typing import List
 
-def 
+def purify(seq: List[int])
