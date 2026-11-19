@@ -4,4 +4,4 @@ def censor(text:str,word:str)->str:
         if s == word:
             result.append()
         else:
-            res
+            result.append
